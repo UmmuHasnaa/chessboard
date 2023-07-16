@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 30px; color: brown;
+}
+.chessboard {
+    width: 640px;
+    height: 640px;
+    margin: 20px auto;
+    border: 25px solid burlywood;
+}
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: brown;
+      font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+    color:#fff
+}
+.white {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;}
